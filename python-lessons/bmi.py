@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 weight = int(input("enter weight in kg: "))
 height = float(input("enter height in meters: "))
 
